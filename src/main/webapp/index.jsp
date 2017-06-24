@@ -115,7 +115,7 @@
 					</figure>
 					<hgroup>
 						<h2>Certified DevOps Professional</h2>
-						<h3>Two day course in Brussels</h3>
+						<h3>Two day course in New York</h3>
 					</hgroup>
 					<p>A two day course in certified devops professional. A truly effective learning portfolio of relevant, valuable training to millions of ambitious and motivated professionals</p>
 				</article>    
